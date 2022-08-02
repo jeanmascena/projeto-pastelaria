@@ -1,3 +1,3 @@
 # projeto-pastelaria
-<Jean /> 
+<Jean Mascena /> 
  projeto-pastelaria
